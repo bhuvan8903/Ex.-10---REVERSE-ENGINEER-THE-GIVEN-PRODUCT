@@ -31,10 +31,13 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![input](image.png)
+![Mechanum Wheel A](https://github.com/bhuvan8903/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/151444524/b0d557cd-3d45-4de0-9c5a-8069c76dc54e)
+
+![Mechanum Wheel B](https://github.com/bhuvan8903/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/151444524/9adf5f7f-4ad8-48c0-ac19-3ea43c2f46c8)
 
 ### Output:
-![output](image-1.png)
+
+![image](https://github.com/bhuvan8903/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/151444524/949f2f5b-ba2a-42bd-8f53-18dcf695615a)
 
 
 ### Name:Bhuvaneshwaran H
